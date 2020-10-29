@@ -10,7 +10,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author='Olivier Robardet',
-    author_email='orobardet@gmail.com',
+    author_email='olivier.robardet@gmail.com',
     keywords="markdown image video",
     license='MIT',
     url='https://github.com/orobardet/pymarkdown-video',
