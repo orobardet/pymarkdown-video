@@ -5,7 +5,7 @@ with open('README.md') as f:
 
 setuptools.setup(
     name='pymarkdown-video',
-    version='1.0.0',
+    version='1.1.0',
     description='Render video tags in python markdown for images that are video',
     long_description=long_description,
     long_description_content_type="text/markdown",
